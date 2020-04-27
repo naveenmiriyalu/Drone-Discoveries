@@ -1,2 +1,2 @@
 # Drone-Discoveries
-Dabbling with my DJI tello drone 
+Dabbling with my DJI Tello drone 
